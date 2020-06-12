@@ -45,6 +45,7 @@ In Linux
 	
 
 Install all required packges using command
+	
 	>pip install -r requirements.txt
 
 
@@ -56,6 +57,7 @@ run the the file using command
 
 if you want to know the Ip address of the system
 use the following command
+	
 	>ipconfig
-	you will find your ip address here 
+you will find your ip address here 
 		IPv4 Address. . . . . . . . . . . : 192.168.0.98
