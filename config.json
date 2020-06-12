@@ -1,0 +1,18 @@
+{
+    "audio_features":{
+        "CHUNK" : 1024,
+        "CHANNELS" : 2,
+        "RATE" : 44100,
+        "FORMAT" : "pyaudio.paInt16"
+    },
+
+    "video_features":{
+        "MAX_DGRAM" : "2**16",
+        "MAX_IMAGE_DGRAM" : "2**16 - 64"
+    },
+
+    "connection":{
+        "AUDIO_PORT" : 5002,
+        "VIDEO_PORT" : 5003
+    }
+}
