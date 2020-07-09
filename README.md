@@ -52,7 +52,7 @@ Install all required packges using command
 
 run the the file using command
 
-	>python audio_tansfer.py <ip_address_of_other_system>
+	>python audio_video_tansfer.py <ip_address_of_other_system>
 
 
 if you want to know the Ip address of the system
